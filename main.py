@@ -1,3 +1,4 @@
+# Самый первый урок, создан самый простейший бот
 from aiogram import Bot, Dispatcher, executor, types
 
 
